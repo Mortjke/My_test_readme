@@ -99,15 +99,18 @@ _Примеры:_
 
 </details>
 
-## Настройка pre-commit <a id="pre-commit"></a>:
-
+<details>
+ <summary>
+ Настройка pre-commit <a id="pre-commit"></a>
+ </summary>
+<br>
 > poetry install
 >
 > pre-commit install
 
 Далее при каждом коммите у вас будет происходить автоматическая проверка
 линтером, а так же будет происходить автоматическое приведение к единому стилю.
-
+</details>
 
 ## Переменные окружения:
 
