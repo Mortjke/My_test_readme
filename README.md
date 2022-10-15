@@ -116,7 +116,9 @@ _Примеры:_
  <summary>
  Переменные окружения
  </summary>
+
 <br>
+
 ```dotenv
 BOT_TOKEN= # токен бота
 BOT_WEBHOOK_MODE= # запустить бота в режиме webhook(true)|polling(false)
